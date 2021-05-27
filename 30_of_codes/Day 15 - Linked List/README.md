@@ -1,5 +1,5 @@
 ## Objective
-Today we will work with a Linked List. Check out the Tutorial tab for learning materials and an instructional video.
+Today we will work with a Linked List. 
 
 A Node class is provided for you in the editor. A Node object has an integer data field,**data**, and a Node instance pointer, **next**, pointing to another node (i.e.: the next node in the list).
 
